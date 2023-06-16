@@ -35,5 +35,5 @@ def escoger():
 
 escoger()
 
-print("amor")
+print ("hjhkjkkkklllhhkhjgh")
     
